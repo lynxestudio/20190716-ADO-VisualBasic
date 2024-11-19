@@ -37,9 +37,33 @@ If you want to execute an SQL statement, set the CommandType property of the com
 </ol>
 The following example shows how to execute a query to determine the number of products in the AdventureWorks2016CTP3 database on the local SQL Server instance.
 </p>
-Fig 1. Main program
+Fig 1. Main program, running the first query
 <p>
 <div>
 <img src="images/fig1.png">
+</div>
+</p>
+Fig 2. Running the second query
+<p>
+<div>
+<img src="images/fig2.png">
+</div>
+</p>
+Fig 3. Running the third query
+<p>
+<div>
+<img src="images/fig3.png">
+</div>
+</p>
+Fig 4. Running the fourth query
+<p>
+<div>
+<img src="images/fig4.png">
+</div>
+</p>
+Fig 5. Running the last query
+<p>
+<div>
+<img src="images/fig5.png">
 </div>
 </p>
