@@ -35,7 +35,7 @@ If you want to execute an SQL statement, set the CommandType property of the com
 <li>Call the ExecuteScalar method on the command object. Assign the result to a suitably typed variable.</li>
 <li>Call the Close method on the connection object.</li>
 </ol>
-The following example shows how to execute a query to determine the number of products in the AdventureWorks2016CTP3 database on the local SQL Server instance.
+The following example shows how to execute a query to determine the number of products in the <a href="https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms">AdventureWorks</a> database on the local SQL Server instance.
 </p>
 Fig 1. Main program, running the first query
 <p>
